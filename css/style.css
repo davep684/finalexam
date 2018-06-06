@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+}
+header{
+    display : flex;
+    flex-direction:inherit;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+    border: 5px solid black;
+    background-color:black;
+    
+}
+header img {
+margin-bottom: 20vh;
+width: 800px;
+height: 400px;
+border: 5px solid black;
+}
+
+
+nav{
+    background-color:grey;
+    border: 5px solid black;
+    background-size: cover;
+    min-height: 83.59vh;
+} 
+li{
+    background-color: blue;
+    border: 5px solid black;
+}
